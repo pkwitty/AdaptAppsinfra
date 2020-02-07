@@ -1,0 +1,37 @@
+INfrasupport
+
+Set put of environment - 4 hours
+Security & Firewall - 1
+Spin up of new servers for Dev -15 minst
+Spin up of new server for Test -15 mins
+Collaboration with Ops Team - Understanding the tools -1
+Set up of Tools - .5
+Access - .5
+Secuity incidents - .5
+Patching- .5
+UPgrading the hw - 1
+INfrasupport - .5
+CI CD - 1
+
+
+Operations tasks.  9.75
+
+Collabaraion - 1 hour
+Release management
+	Deployement and Release notes - 32 hour - 2.5hours - automation through CDP
+	Sanity Testing - 3 hours - 15 minst - Automation Testing - Selenium
+	Rollout planning - 2 hours
+	 - 
+Monitoring
+	Alert and notification - 8 hours - 1 hours
+	
+Production support
+	Roll back plan - 6 hours - 1 hour- 
+	DRP - 7 hours down time - 15 mins - AWS 
+	Logs splunk Base - 
+	
+Infra support	
+	Maintainance and patches  - auto 
+	Hardware upgrade - auto
+	provisioning  - auto
+	tool Support - 1 hour
