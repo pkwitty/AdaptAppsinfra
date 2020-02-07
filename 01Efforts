@@ -1,26 +1,10 @@
-INfrasupport
-
-Set put of environment - 4 hours
-Security & Firewall - 1
-Spin up of new servers for Dev -30 minst
-Spin up of new server for Test -30 mins
-Collaboration with Ops Team - Understanding the tools -1
-Set up of Tools - 1
-Access - 1
-Secuity incidents - 1
-Patching- 1
-UPgrading the hw - 1
-INfrasupport - 1
-CI CD - 2
-
-
-Operations tasks.  9.75
+Operations tasks. 
 
 Collabaraion - 1 hour
 Release management
-	Deployement and Release notes - 32 hour - 2.5hours - automation through CDP
-	Sanity Testing - 3 hours - 15 minst - Automation Testing - Selenium
-	Rollout planning - 2 hours
+	Deployement and Release notes - 32 hour - 4 hours - automation through CDP
+	Sanity Testing - 4 hours - 15 minst - Automation Testing - Selenium
+	Rollout planning - 3 hours
 	 - 
 Monitoring
 	Alert and notification - 8 hours - 1 hours
@@ -31,7 +15,7 @@ Production support
 	Logs splunk Base - 
 	
 Infra support	
-	Maintainance and patches  - auto 
-	Hardware upgrade - auto
-	provisioning  - auto
-	tool Support - 1 hour
+	Maintainance and patches  - 15 mins auto 
+	Hardware upgrade - auto  15 mins
+	provisioning  - auto  15 mins
+	tool Support - 1 hour  15 mins
